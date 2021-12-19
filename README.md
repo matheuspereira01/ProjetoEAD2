@@ -21,3 +21,10 @@ Adicionar Meta, Acompanhar Meta em tempo Real
 
 • Despesas (Tipo, Valor, Data, Quantidade)
 Adicionar Despesas, Consultar Depesas)
+
+Dia 16 e 17:
+Nesses 2 dias finais de entrega do nosso projeto, fizemos varias reuniões via Google Meet  para acertar algumas coisas e concluir nosso projeto.  Tivemos um pouco de dificuldade com relação a aplicabilidade de alguns requisitos solicitados, porém pesquisando na internet e com ajuda de colegas, conseguimos desenvolver.
+Foi adicionado alguma das listas que usamos, colocamos o método de exceção Try- Catch e para escrever um arquivo como pedido , foi feito um Relatório em Txt  com as devidas operações dentro das contas. Esse Relatório no nosso projeto é bastante importante para a pessoa/Família conseguir visualizar com mais precisão seus gastos e o que pode ser economizado no próximo mês.
+
+Dia 19 - Realizamos a gravação desmonstrando a funcionalidade do sistema. O video se encontra no seguinte linnk:
+https://youtu.be/rR9YaUzGD5c
